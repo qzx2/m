@@ -1,0 +1,16 @@
+{
+	"info": {
+		"url_png_icon_64x64": "",
+		"url_png_logo": "https://lh5.googleusercontent.com/gwmhr6kHO01ssHvijWQ5AAQJj0r7VIvPQnqJR6senNYwy36IR54Op-KmO8VF2eELsgh2aRYcudjQ54eYQj-m8YY=w16383",
+		"location": "UK, England",
+		"social": {
+			"twitter_handle": "sapiopool",
+			"youtube_handle": "channel/UCcPH2RMsszRGJ2awvLdMKzQ",
+			"discord_handle": "https://discord.gg/9a8mW4eA8y"
+		},
+		"about": {
+			"me": "We are a professional Cardano staking pool build by an experienced DevOps team, with years of experience in supporting mission critical infrastructure in FinTech. ",
+			"server": "SAPIO Pool is hosted in a UK datacentre on our own hardware but we have some relays in the Cloud to get the best of both worlds.All our infrastrure is monitored and there are minimum 2 engineers on call at all times."
+		}
+	}
+}
